@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 - 📧 Email: mmdc106@gmail.com
 - 🌐 Portfolio: [mitchportfolio.netlify.app](https://yourportfolio.site)
 
+
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
