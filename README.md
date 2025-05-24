@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated with a degree in **Computer Engineering** from [Your University Name]
+- 🎓 Graduated with a degree in **Computer Engineering** from Holy Angel University
 - 👨‍💻 Aspiring **Software Developer** with a strong focus on front-end technologies and modern UI design
 - 🛠️ Experienced in creating web applications using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**
 - 🔧 Hands-on background in **IT support**, **networking**, and **system maintenance** through internships
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 📧 Email: yourname@email.com
-- 🌐 Portfolio: [yourportfolio.site](https://yourportfolio.site)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mitsucatsu)
+- 📧 Email: mmdc106@gmail.com
+- 🌐 Portfolio: [mitchportfolio.netlify.app](https://yourportfolio.site)
 
 ---
