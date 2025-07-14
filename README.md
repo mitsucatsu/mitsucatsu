@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Aspiring **Software Developer** with a strong focus on front-end technologies and modern UI design
 - 🛠️ Experienced in creating web applications using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**
 - 🔧 Hands-on background in **IT support**, **networking**, and **system maintenance** through internships
-- 💡 Eager to grow as a **full-stack developer** and contribute to tech-driven, meaningful projects
+- 💡 Eager to grow and contribute to tech-driven, meaningful projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
