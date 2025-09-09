@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mitsucatsu)
-- 📧 Email: mmdc106@gmail.com
-- 🌐 Portfolio: [mitchportfolio.netlify.app](https://yourportfolio.site)
+- 💼 [LinkedIn](https://www.linkedin.com/in/delacruzmitchm)
+- 📧 Email: delacruzmitchm@gmail.com
+- 🌐 Portfolio: [mitchportfolio.netlify.app](https://mitchportfolio.netlify.app)
 
 
 <p align="center">
