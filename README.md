@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/delacruzmitchm)
+- 💼 [LinkedIn](https://www.linkedin.com/in/delacruzmitch)
 - 📧 Email: delacruzmitchm@gmail.com
 - 🌐 Portfolio: [mitchportfolio.netlify.app](https://mitchportfolio.netlify.app)
 
